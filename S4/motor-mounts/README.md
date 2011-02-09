@@ -1,4 +1,4 @@
-# B6 S4 Motor Mount Replacement
+# B6/7 S4 Motor Mount Replacement
 
 **Procedure Note**: It has been said that one can remove a motor mount without removing the sway bar or related mount brackets. I didn't say that though. Some of these so-called "shortcuts" result in more labor time and could potentially lead to hours of frustration. Take my advice and do it the "long" way, you have more room to work and it will take less time than you think.
 
@@ -51,7 +51,8 @@ If your starter is showing any signs of needing replacement (acting up in cold w
 7. Disconnect the mount sensor. If you're installing Stern mounts, they come with resistors that you'll plug into the female side (to wiring harness). You'll want zipties so that you can secure the resistor to the wiring harness.
 8. Unbolt the 3 8mm allen bolts that secure the upper motor mount bracket to the engine block. Two of them are easy to see while the 3rd is a bit hidden. With 1 or 2 wobble extensions and an 8mm allen socket you'll be able to get to all of these bolts no problem. Once all 3 bolts are undone, wrangle the upper motor mount bracket (with motor mount still attached) out of there.
     
-    I apologize that I don't have a photo of the upper bracket. I screwed up and accidentally deleted it. Don't worry though, it's really obvious what you're looking for. If in doubt, see below at the photo of the driver side upper bracket.
+   In the photo below you can see 2 of the 3 hex bolts circled in blue, the approximate location of the 3rd is shown in red.<br />
+   <img src="http://sandbox.enjoybeing.net/diy/S4/starter/starter6.jpg" />
     
 9. Attach the new mount to the upper bracket (23 Nm) and bolt the upper bracket with mount attached back to the engine block. Use loctite on those bolts and torque to 42 Nm. Make sure to put the right side up. The lower side of the motor mount has a metal nub that sticks out and locks into a certain position on the lower bracket.
 
