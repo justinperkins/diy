@@ -30,7 +30,7 @@ If your starter is showing any signs of needing replacement (acting up in cold w
 * Longer bolt on lower motor mount bracket (do not reuse): 110 Nm + 1/4 turn
 * Pair of shorter bolts for lower motor mount bracket (do not reuse): 75 Nm
 
-**Procedure**
+## Procedure
 
 1. Either put your car on ramps or raise the frontend and put it on jackstands. I preferred here to remove my front wheels because it gave me more room to move around, but is not required. You'll be removing your sway bar, some people like to do that with the car on ramps but it can be done either way. Remove the lower engine cover.
 2. Remove the front sway bar. Starting on the left side, put your jack just under the sway bar where it meets the end link. You'll be removing the 16mm bolt that goes into the sway bar. Lift the jack just enough to support the sway so that when you start loosening the end link bolt the sway bar won't move. Repeat for the right side. The 16mm bolts securing the sway bar to the end links are one-time use bolts and should not be reused. See the top of this procedure for torque specs.
@@ -51,7 +51,7 @@ If your starter is showing any signs of needing replacement (acting up in cold w
 7. Disconnect the mount sensor. If you're installing Stern mounts, they come with resistors that you'll plug into the female side (to wiring harness). You'll want zipties so that you can secure the resistor to the wiring harness.
 8. Unbolt the 3 8mm allen bolts that secure the upper motor mount bracket to the engine block. Two of them are easy to see while the 3rd is a bit hidden. With 1 or 2 wobble extensions and an 8mm allen socket you'll be able to get to all of these bolts no problem. Once all 3 bolts are undone, wrangle the upper motor mount bracket (with motor mount still attached) out of there.
     
-   In the photo below you can see 2 of the 3 hex bolts circled in blue, the approximate location of the 3rd is shown in red.<br />
+   In the photo below you can see 2 of the 3 hex bolts circled in red, the approximate location of the 3rd is shown in blue.<br />
    <img src="http://sandbox.enjoybeing.net/diy/S4/starter/starter6.jpg" />
     
 9. Attach the new mount to the upper bracket (23 Nm) and bolt the upper bracket with mount attached back to the engine block. Use loctite on those bolts and torque to 42 Nm. Make sure to put the right side up. The lower side of the motor mount has a metal nub that sticks out and locks into a certain position on the lower bracket.
