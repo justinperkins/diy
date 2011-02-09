@@ -51,21 +51,21 @@ If your motor mounts have never been replaced and you have over 50k on your vehi
 
 6. Unbolt the 3 18mm bolts that secure the lower motor mount bracket to the chassis/subframe. Make note of the position of the bolts in the slots. You may want to mark them though I don't think it's necessary. These bolts are one-time use bolts and should not be reused. See the top of this procedure for torque specs. These bolts are on very tight, don't be afraid to bust out a cheater pipe and/or breaker bar. The 18mm bolts are circled in blue in the photo below.
 
-  <img src="http://sandbox.enjoybeing.net/diy/S4/motor-mounts/mount1.jpg" />
+    <img src="http://sandbox.enjoybeing.net/diy/S4/motor-mounts/mount1.jpg" />
 
-  Once unbolted, remove the lower mount bracket and set aside. Once removed, you will be able to clearly see the passenger motor mount with sensor attached to the right. See photo below.
+    Once unbolted, remove the lower mount bracket and set aside. Once removed, you will be able to clearly see the passenger motor mount with sensor attached to the right. See photo below.
 
-  <img src="http://sandbox.enjoybeing.net/diy/S4/motor-mounts/mount2.jpg" />
+    <img src="http://sandbox.enjoybeing.net/diy/S4/motor-mounts/mount2.jpg" />
 
 7. Disconnect the mount sensor. If you're installing Stern mounts, they come with resistors that you'll plug into the female side (to wiring harness). You'll want zipties so that you can secure the resistor to the wiring harness.
 
 8. Unbolt the 3 8mm hex bolts that secure the upper motor mount bracket to the engine block. Two of them are easy to see while the 3rd is a bit hidden. With 1 or 2 wobble extensions and an 8mm allen socket you'll be able to get to all of these bolts no problem. Once all 3 bolts are undone, wrangle the upper motor mount bracket (with motor mount still attached) out of there.
 
-   In the photo below you can see 2 of the 3 hex bolts circled in red, the approximate location of the 3rd is shown in blue.<br />
-   <img src="http://sandbox.enjoybeing.net/diy/S4/starter/starter6.jpg" />
+    In the photo below you can see 2 of the 3 hex bolts circled in red, the approximate location of the 3rd is shown in blue.<br />
+    <img src="http://sandbox.enjoybeing.net/diy/S4/starter/starter6.jpg" />
    
-   Once the upper mount bracket has been removed, you can clearly see the starter. After you're done unbolting the starter, you'll be pulling it out through this area. See photo.<br />
-   <img src="http://sandbox.enjoybeing.net/diy/S4/starter/starter3.jpg" />
+    Once the upper mount bracket has been removed, you can clearly see the starter. After you're done unbolting the starter, you'll be pulling it out through this area. See photo.<br />
+    <img src="http://sandbox.enjoybeing.net/diy/S4/starter/starter3.jpg" />
 
 8. Remove the passenger side inner axle shield with your 6mm allen. There are 3 allen bolts holding it on at approximately 9, 12 and 3 o'clock. If you've done your downpipes you already know how much of a bitch the top allen is. I found that with the right combination of extensions (wobble extensions are excellent here) and a swivel, you should be able to get a nice long extension chain that gets your ratchet out in the empty wheel bay area which gives you plenty of room to get good torque on that bolt. This is why we removed the right front wheel.
 
@@ -73,7 +73,7 @@ If your motor mounts have never been replaced and you have over 50k on your vehi
 
 9. Now is a good time to take a look at the starter. There are 2 bolts holding the starter in place. The lower is a pass-through 18mm and the upper is a 16mm that bolts into the starter. In the photo below, you can see the lower pass-through bolt (circled in red) and the negative strap (circled in blue) which is bolted to the starter with a 13mm.
 
-   <img src="http://sandbox.enjoybeing.net/diy/S4/starter/starter1.jpg" />
+    <img src="http://sandbox.enjoybeing.net/diy/S4/starter/starter1.jpg" />
 
 10. Remove the 13mm holding the negative strap to the starter and the lower 18mm pass-through bolt. That nut is torqued on really good, use your breaker bar and put your whole body into it. Once it breaks free you'll have to hold the back of the bolt with your 18mm open-end wrench.
 
