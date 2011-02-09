@@ -47,7 +47,7 @@ If your motor mounts have never been replaced and you have over 50k on your vehi
 
 5. Passenger side motor mount, remove the bracket that the starter wiring harness is secured to by removing the 13mm bolt at the center of the motor mount. Snip any zip ties that are holding the starter wiring hardness to the bracket, remove the bracket and put it aside. The 13mm nut is circled in red in the photo below
 
-  <img src="http://sandbox.enjoybeing.net/diy/S4/motor-mounts/mount1.jpg" />
+    <img src="http://sandbox.enjoybeing.net/diy/S4/motor-mounts/mount1.jpg" />
 
 6. Unbolt the 3 18mm bolts that secure the lower motor mount bracket to the chassis/subframe. Make note of the position of the bolts in the slots. You may want to mark them though I don't think it's necessary. These bolts are one-time use bolts and should not be reused. See the top of this procedure for torque specs. These bolts are on very tight, don't be afraid to bust out a cheater pipe and/or breaker bar. The 18mm bolts are circled in blue in the photo below.
 
@@ -68,6 +68,8 @@ If your motor mounts have never been replaced and you have over 50k on your vehi
    <img src="http://sandbox.enjoybeing.net/diy/S4/starter/starter3.jpg" />
 
 8. Remove the passenger side inner axle shield with your 6mm allen. There are 3 allen bolts holding it on at approximately 9, 12 and 3 o'clock. If you've done your downpipes you already know how much of a bitch the top allen is. I found that with the right combination of extensions (wobble extensions are excellent here) and a swivel, you should be able to get a nice long extension chain that gets your ratchet out in the empty wheel bay area which gives you plenty of room to get good torque on that bolt. This is why we removed the right front wheel.
+
+    **Note:** I am unsure if this step is really required or not, my axle shields were already removed when I was doing this job and the official Audi procedure calls for removing the passenger shield. Since the axle shields are such bitches, it is worth trying without removing the shield. I have a feeling you won't be able to get the starter bolts out though.
 
 9. Now is a good time to take a look at the starter. There are 2 bolts holding the starter in place. The lower is a pass-through 18mm and the upper is a 16mm that bolts into the starter. In the photo below, you can see the lower pass-through bolt (circled in red) and the negative strap (circled in blue) which is bolted to the starter with a 13mm.
 
