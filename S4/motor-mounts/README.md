@@ -56,7 +56,7 @@ If your starter is showing any signs of needing replacement (acting up in cold w
     
 9. Attach the new mount to the upper bracket (23 Nm) and bolt the upper bracket with mount attached back to the engine block. Use loctite on those bolts and torque to 42 Nm. Make sure to put the right side up. The lower side of the motor mount has a metal nub that sticks out and locks into a certain position on the lower bracket.
 
-    You can see in the photo below that the Stern mounts are slightly taller than the OEM mounts. This could be attributed to my OEM mounts having 100k miles on them, or they could really be taller. Either way, I had to lift my engine a bit when bolting up the lower bracket.
+    You can see in the photo below that the Stern mounts are slightly taller than the OEM mounts. This could be attributed to my OEM mounts having 100k miles on them, or they could really be taller. Either way, I had to lift my engine a bit when bolting up the lower bracket.<br />
     <img src="http://sandbox.enjoybeing.net/diy/S4/motor-mounts/mount5.jpg" />
 
     If you find that you need to lift your engine higher than it is currently sitting (supported by your jack), then I'm afraid to say that you're going to have to remove your bumper and put the frontend into service position. You need to get the snub mount disengaged so that you can properly lift the engine up, otherwise when you lift your jack it will just lift up the entire frontend.
