@@ -59,6 +59,8 @@ If your starter is showing any signs of needing replacement (acting up in cold w
     You can see in the photo below that the Stern mounts are slightly taller than the OEM mounts. This could be attributed to my OEM mounts having 100k miles on them, or they could really be taller. Either way, I had to lift my engine a bit when bolting up the lower bracket.
     <img src="http://sandbox.enjoybeing.net/diy/S4/motor-mounts/mount5.jpg" />
 
+    If you find that you need to lift your engine higher than it is currently sitting (supported by your jack), then I'm afraid to say that you're going to have to remove your bumper and put the frontend into service position. You need to get the snub mount disengaged so that you can properly lift the engine up, otherwise when you lift your jack it will just lift up the entire frontend.
+
 10. The rest of the installation of the passenger bracket is pretty straight forward. You may have to lift the engine a bit more since a new mount will be taller than the old, used mounts you're pulling out. The lower bracket bolts should not be reused. See top of procedure for torque specs. Remember to put the wiring bracket back in place last and zip tie any wires that you previously snipped. You'll also want to zip tie the Stern resistor, if applicable.
   
   Make sure that the metal nub on the lower side of the mount is matched up with the hole in the lower bracket. Twist the mount as needed to lineup. See below photos showing bottom of mount (uninstalled) and then installed lined up properly.
